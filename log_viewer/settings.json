@@ -1,0 +1,10 @@
+{
+  "logFiles": [
+    "/Users/udi/Documents/projects/cloudlock/platform-core/platform-api.log",
+    "/Users/udi/Documents/projects/cloudlock/platform-core/service.log",
+    "/Users/udi/Documents/projects/cloudlock/platform-core/platform-workers.log",
+    "/Users/udi/Documents/projects/cloudlock/csf-webapp/webapp.log",
+    "/Users/udi/Documents/projects/cloudlock/csf-api/enterprise-api.log"
+  ],
+  "pollInterval": 5
+}
